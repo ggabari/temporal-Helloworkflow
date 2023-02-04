@@ -22,10 +22,14 @@ After it has successfully initialized, open a new terminal and run the next comm
 <li>"go run ./starter/main.go", to execute the Helloworkflow</li>
 Then refresh your browser, the output should look like the images below.
 
+  
+![Screenshot (243)](https://user-images.githubusercontent.com/64992501/216762973-92f5c746-6ca2-4577-9790-9f21e419a8da.png)
 
 
+<li>Then on the terminal navigate to the starter/ and edit output message in "main.go" file to validate the effectiveness of the workflow.</li>
+  
 
-
+  
 
 # temporal-Helloworkflow
 # temporal-Helloworkflow

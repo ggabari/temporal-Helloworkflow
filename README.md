@@ -22,15 +22,17 @@ After it has successfully initialized, open a new terminal and run the next comm
 <li>"go run ./starter/main.go", to execute the Helloworkflow</li>
 Then refresh your browser, the output should look like the images below.
 
-  
+ # url: http://3.96.142.22:8080/namespaces/default/workflows?query=&search=basic
 ![Screenshot (243)](https://user-images.githubusercontent.com/64992501/216762973-92f5c746-6ca2-4577-9790-9f21e419a8da.png)
 
 
 <li>Then on the terminal navigate to the starter/ and edit output message in "main.go" file to validate the effectiveness of the workflow.</li>
-  
+After which, run "go run ./starter/main.go"
 
-  
+![Screenshot (244)](https://user-images.githubusercontent.com/64992501/216763178-cd573ce5-098c-4238-bde2-9013f59faf48.png)
 
-# temporal-Helloworkflow
-# temporal-Helloworkflow
-# temporal-Helloworkflow
+# Final output
+![Screenshot (245)](https://user-images.githubusercontent.com/64992501/216763362-5ee2ecdd-6696-4dfd-bd73-b05d290a43fb.png)
+
+# Conclusion
+Deployment of the Golang Hello-workflow using Temporal was successful, thus achieving the objective of data consistency for microservice applications requiring high resilience.
